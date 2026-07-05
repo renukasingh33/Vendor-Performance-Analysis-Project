@@ -2,8 +2,6 @@
 
 An end-to-end data analytics project that evaluates vendor performance, inventory efficiency, and profitability using SQL, Python, and Power BI. The project uses retail sales and inventory data to generate business insights that support data-driven decision-making.
 
-> **Note:** This project was completed as part of my learning journey by following a YouTube tutorial. I independently implemented the SQL queries, Python analysis, and Power BI dashboard using the dataset provided by the tutorial.
-
 ---
 
 # Business Problem
