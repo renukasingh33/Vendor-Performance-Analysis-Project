@@ -15,3 +15,37 @@ This project aims to answer the following business questions:
 - Analyze the impact of bulk purchasing on unit costs.
 - Assess inventory turnover to reduce holding costs.
 - Compare profitability between high-performing and low-performing vendors.
+
+  ---
+
+# Tech Stack
+
+- SQL
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- Power BI
+
+---
+
+# Data Analytics Workflow
+
+```
+Data Collection
+      ↓
+Data Logging
+      ↓
+Data Ingestion
+      ↓
+Data Cleaning & Transformation (SQL)
+      ↓
+Exploratory Data Analysis (Python)
+      ↓
+Business Insights
+      ↓
+Data Visualization (Power BI)
+      ↓
+Reporting & Recommendations
+```
